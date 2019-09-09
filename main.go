@@ -1,10 +1,10 @@
 package main
 
 import (
-	"gopkg.in/yaml.v2"
-
-	"awesomeProject18/go-newpkg"
+	newpkg "awesomeProject18/go-newpkg"
 	packer "awesomeProject18/mydir"
+
+	yaml "gopkg.in/yaml.v2"
 )
 
 func main() {
