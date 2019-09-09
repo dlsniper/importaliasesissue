@@ -1,0 +1,5 @@
+package packer
+
+func DemoFunc() {
+
+}

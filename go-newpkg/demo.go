@@ -1,0 +1,3 @@
+package newpkg
+
+func DemoFunc() {}
