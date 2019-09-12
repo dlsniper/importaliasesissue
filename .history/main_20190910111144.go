@@ -12,6 +12,5 @@ func main() {
 	packr.DemoFunc()
 	newpkg.DemoFunc()
 	_ = yaml.Decoder{}
-
 	_, _ = homedir.Dir()
 }
